@@ -25,7 +25,7 @@ const Home = () => {
             <div className="home-container">
 
                 <SearchMovieInput handleSearch={handleSearch} />
-                {/* We use here conditional rendering if their is movies related to the search movie input */}
+                {/* rendering only when something related to search query is sent by api */}
                 {movies?.length > 0 ? (
                     <div className="movies">
                         {movies?.map((movie) => {

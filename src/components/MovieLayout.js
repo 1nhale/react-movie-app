@@ -9,7 +9,7 @@ const MovieLayout = ({ image, title }) => {
 
 
             {image === 'N/A' ? (
-                <img src={defaultImage} alt={title} height="300px" />
+                <img src={defaultImage} alt={title} height="300px" />// incase no banner is sent via api
             ) : (
                     <img src={image} alt={title} height="300px" />
                 )}
