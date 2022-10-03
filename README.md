@@ -26,7 +26,7 @@ https://react-omdb-1nhale.netlify.app/
 
 # SnapShot of the Movie React App
 
-![image]
+![image](https://github.com/1nhale/react-movie-app/raw/master/snapshot.png)
 
 
 # Getting Started with Create React App
