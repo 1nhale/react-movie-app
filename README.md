@@ -17,8 +17,8 @@ npm start
 
 # Static Login using these credentials
 
-Email: lameesaboudarwish@gmail.com
-Password: movieapp
+Email: admin
+Password: 123
 
 # SnapShot of the Movie React App
 
